@@ -23,6 +23,6 @@ do
 
     Console.WriteLine("Si desea ingresar otro estudiante digite true, de lo contrario digite false");
     continuar = bool.Parse(Console.ReadLine());
-    { }
+   
 
 } while (continuar);
